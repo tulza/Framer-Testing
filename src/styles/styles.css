@@ -2,22 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-
-}
-
 html,
+body,
 #root {
-  @apply h-[100vh] w-[100vw];
-}
-
-html {
-  background-color: var(--background);
+  background-color: "#252525";
   color: var(--text);
-  overflow: hidden;
-}
-
-.noise {
-  background: url(/src/assets/svgs/noise.svg);
-  isolation: isolate;
 }

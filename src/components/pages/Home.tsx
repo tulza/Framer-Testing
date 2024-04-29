@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 const Home = () => {
   return (
     <div className="flex h-dvh w-dvw flex-col justify-between bg-[#252525]">
-      <div>sad</div>
       <div className="full flex h-dvh w-full justify-center gap-8 overflow-x-hidden overflow-y-scroll">
         <div className="min-w-72">
           <div

@@ -6,7 +6,7 @@ import AnimatedRoute from "./route/AnimatedRoute";
 
 function App() {
   return (
-    <Router basename="/vite-react-ts-template">
+    <Router basename="/Framer-Testing">
       <AnimatedRoute />
     </Router>
   );
